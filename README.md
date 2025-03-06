@@ -1,6 +1,7 @@
 <h1>Hi, I'm Paige! <br/><a href="(https://www.linkedin.com/in/paige-holloway-a92988230/)">Technology Professional</a>
 
 <h2>👨‍💻 My Tech Journey:</h2>
+# Welcome to my portfolio! Here, you can explore my journey in technology and system administration.
 
 - <b>Paige's Guide to Linux</b>
   - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
