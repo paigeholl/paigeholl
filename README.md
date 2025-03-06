@@ -4,6 +4,9 @@
 
 - <b>Paige's Guide to Linux</b>
   - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
+ 
+- <b>System Adminstration</b>
+  - [System Administrator Basics](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
 
 
 
