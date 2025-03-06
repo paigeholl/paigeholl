@@ -1,15 +1,14 @@
-<h1>Hi, I'm Paige! <br/><a href="(https://www.linkedin.com/in/paige-holloway-a92988230/)">Technology Professional</a>
+<h1>Hi, I'm Paige! <br/><a href="(https://www.linkedin.com/in/paige-holloway-a92988230/)">Ambitious Technology Professional</a>
 
   ---
   
 👨‍💻 My Tech Journey:
 
 ## Welcome to my portfolio! Here, you can explore my journey in technology and system administration.
-##
-- <b>Paige's Guide to Linux</b>
+ <b>Paige's Guide to Linux</b>
   - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
  
-- <b>System Adminstration</b>
+ <b>System Adminstration</b>
   - [System Administrator Basics](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
 
 
