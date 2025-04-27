@@ -10,6 +10,15 @@
  
  <b>System Adminstration</b>
   - [System Administrator Basics](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
+  - [Adding Windows Server 2019 to VM (OracleBox)](https://github.com/paigeholl/WindServ2019/blob/main/README.md)
+  - [1. Setting up IP Addressing](https://github.com/paigeholl/SetUpIP/blob/main/README.md)
+  - [2. Renaming PC](https://github.com/paigeholl/RenamePC/blob/main/README.md)
+  - [3. Install AD Domain Services and Create a Domain Controller](https://github.com/paigeholl/AD-DS/blob/main/README.md)
+  - [4. Create an Admin account](https://github.com/paigeholl/AdminAcct/blob/main/README.md)
+  - [5. Install RAS/NAT](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
+  - [6. Set up a DHCP Server](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
+  - [7. Adding Users w/ PowerShell script](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
+
 
 
 
