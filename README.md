@@ -6,9 +6,13 @@
 
 ## Welcome to my portfolio! Here, you can explore my journey in technology and system administration.
  <b>Paige's Guide to Linux</b>
+ 
+ Getting comfortable with the command line, file permissions, and Linux administration through beginner-focused labs.
   - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
  
  <b>System Adminstration</b>
+
+ Hands-on Windows Server 2019 lab environment set up in Oracle VirtualBox. These projects helped me simulate real enterprise infrastructure tasks from the ground up.
   - [System Administrator Basics](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
   - [Adding Windows Server 2019 to VM (OracleBox)](https://github.com/paigeholl/WindServ2019/blob/main/README.md)
   - [1. Setting up IP Addressing](https://github.com/paigeholl/SetUpIP/blob/main/README.md)
