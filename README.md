@@ -18,6 +18,7 @@
   - [5. Install RAS/NAT](https://github.com/paigeholl/RAS-NAT/blob/main/README.md)
   - [6. Set up a DHCP Server](https://github.com/paigeholl/DHCP/blob/main/README.md)
   - [7. Adding Users w/ PowerShell script](https://github.com/paigeholl/BulkAdd/blob/main/README.md)
+  - [Creating Win10 VM](https://github.com/paigeholl/Win10/blob/main/README.md)
 
 
 
