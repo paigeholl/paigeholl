@@ -4,7 +4,7 @@
   
 👨‍💻 My Tech Journey:
 
-## Welcome to my portfolio! Here, you can explore my journey in technology, cybersecuirty, and system administration.
+## Welcome to my portfolio! Here you can explore my journey in cybersecuirty, system administration, and all things technology.
 
  <b><ins>Cybersecurity Voyage </ins></b>
 
