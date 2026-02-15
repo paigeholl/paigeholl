@@ -6,17 +6,17 @@
 
 ## Welcome to my portfolio! Here, you can explore my journey in technology, cybersecuirty, and system administration.
 
- **<b><u>Cybersecurity Voyage </u></b>**
+ <b><ins>Cybersecurity Voyage </ins></b>
 
  Building hands‑on cybersecurity fundamentals by practicing threat detection, log analysis, and security hardening through guided labs.
  - [Creating the Base Vulnerability Scanner VM](https://github.com/paigeholl/VulnVM/blob/main/README.md)
  
-**<b><u>Paige's Guide to Linux</u></b>**
+<b><ins>Paige's Guide to Linux</ins></b>
  
  Getting comfortable with the command line, file permissions, and Linux administration through beginner-focused labs.
   - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
  
-**<b><u>System Adminstration</u></b>**
+<b><ins>System Adminstration</ins></b>
 
  Hands-on Windows Server 2019 lab environment set up in Oracle VirtualBox. These projects helped me simulate real enterprise infrastructure tasks from the ground up.
   - [System Administrator Basics](https://github.com/paigeholl/Sysadmin-basics/blob/main/README.md)
