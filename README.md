@@ -9,7 +9,7 @@
  <b>Cybersecurity Voyage</b>
 
  Building hands‑on cybersecurity fundamentals by practicing threat detection, log analysis, and security hardening through guided labs.
- - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
+ - [Creating the Base Vulnerability Scanner VM](https://github.com/paigeholl/VulnVM/blob/main/README.md)
  
  <b>Paige's Guide to Linux</b>
  
