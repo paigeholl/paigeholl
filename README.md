@@ -4,7 +4,13 @@
   
 👨‍💻 My Tech Journey:
 
-## Welcome to my portfolio! Here, you can explore my journey in technology and system administration.
+## Welcome to my portfolio! Here, you can explore my journey in technology, cybersecuirty, and system administration.
+
+ <b>Cybersecurity Voyage</b>
+
+ Building hands‑on cybersecurity fundamentals by practicing threat detection, log analysis, and security hardening through guided labs.
+ - [Paige's Beginner Guide to Linux](https://github.com/paigeholl/Library?tab=readme-ov-file#paiges-beginner-guide-to-linux)
+ 
  <b>Paige's Guide to Linux</b>
  
  Getting comfortable with the command line, file permissions, and Linux administration through beginner-focused labs.
