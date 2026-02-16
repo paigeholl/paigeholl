@@ -9,10 +9,14 @@
  <b><ins>Cybersecurity Voyage </ins></b>
 
  Building hands‑on cybersecurity fundamentals by practicing threat detection, log analysis, and security hardening through guided labs.
- - [Creating the Base Vulnerability Scanner VM](https://github.com/paigeholl/VulnVM/blob/main/README.md)
- - [Scanning Windows: Unauthenticated vs. Authenticated](https://github.com/paigeholl/UnvA-Scans/blob/main/README.md)
- - [Creating a Network Security Group in Azure](https://github.com/paigeholl/Create-NSG/blob/main/README.md)
- - [Scan Templates w/ STIGs](https://github.com/paigeholl/STIGs/blob/main/README.md)
+ - Vulnerability Management
+   - [Creating the Base Vulnerability Scanner VM](https://github.com/paigeholl/VulnVM/blob/main/README.md)
+   - [Scanning Windows: Unauthenticated vs. Authenticated](https://github.com/paigeholl/UnvA-Scans/blob/main/README.md)
+   - [Creating a Network Security Group in Azure](https://github.com/paigeholl/Create-NSG/blob/main/README.md)
+   - [Scan Templates w/ STIGs](https://github.com/paigeholl/STIGs/blob/main/README.md)
+   - [Agent Based Monitoring in Windows](https://github.com/paigeholl/AgentScan/blob/main/README.md)
+ - Threat Hunting
+    -
 
 <b><ins>Paige's Guide to Linux</ins></b>
  
