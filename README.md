@@ -12,6 +12,7 @@
  - [Creating the Base Vulnerability Scanner VM](https://github.com/paigeholl/VulnVM/blob/main/README.md)
  - [Scanning Windows: Unauthenticated vs. Authenticated](https://github.com/paigeholl/UnvA-Scans/blob/main/README.md)
  - [Creating a Network Security Group in Azure](https://github.com/paigeholl/Create-NSG/blob/main/README.md)
+ - [Scan Templates w/ STIGs](https://github.com/paigeholl/STIGs/blob/main/README.md)
 
 <b><ins>Paige's Guide to Linux</ins></b>
  
