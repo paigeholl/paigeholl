@@ -19,7 +19,8 @@
  - Threat Hunting
     -
  - Frameworks and Behaviors
-    - 
+    -
+   - [Understanding Zero Trust](https://github.com/paigeholl/ZeroTrust/blob/main/README.md)
 
  --- 
 <b><ins>Paige's Guide to Linux</ins></b>
