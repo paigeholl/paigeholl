@@ -21,6 +21,7 @@
  - Frameworks and Behaviors
     -
    - [Understanding Zero Trust](https://github.com/paigeholl/ZeroTrust/blob/main/README.md)
+   - [Networking Basics](https://github.com/paigeholl/NetwrkBasic/blob/main/README.md)
 
  --- 
 <b><ins>Paige's Guide to Linux</ins></b>
