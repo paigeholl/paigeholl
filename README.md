@@ -20,6 +20,8 @@
  - Threat Hunting inspired by the NIST Incident Response Lifecycle
    -
    - [Investigation on an Internet‑Exposed VM](https://github.com/paigeholl/InternetExposed/blob/main/README.md)
+   - [Sudden Network Slowdown Investigation](https://github.com/paigeholl/SuddenSlowNet/blob/main/README.md)
+
  - Frameworks and Behaviors
     -
    - [Understanding Zero Trust](https://github.com/paigeholl/ZeroTrust/blob/main/README.md)
