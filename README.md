@@ -16,8 +16,10 @@
    - [Creating a Network Security Group in Azure](https://github.com/paigeholl/Create-NSG/blob/main/README.md)
    - [Scan Templates w/ STIGs](https://github.com/paigeholl/STIGs/blob/main/README.md)
    - [Agent Based Monitoring in Windows](https://github.com/paigeholl/AgentScan/blob/main/README.md)
- - Threat Hunting
-    -
+     
+ - Threat Hunting inspired by the NIST Incident Response Lifecycle
+   -
+   - [Investigation on an Internet‑Exposed VM](https://github.com/paigeholl/InternetExposed/blob/main/README.md)
  - Frameworks and Behaviors
     -
    - [Understanding Zero Trust](https://github.com/paigeholl/ZeroTrust/blob/main/README.md)
